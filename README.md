@@ -12,51 +12,54 @@
 
 ***(직접 데이터 수집에 참여 - 식별 가능한 데이터 제외)***
 
-!https://velog.velcdn.com/images/cerezo3/post/ae6aae0b-34c9-4191-b16e-f8d4005630ec/image.png
+<img width="1440" alt="image" src="https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/5c135398-2028-48dc-81b6-afb1e4eb8d4a">
+
 
 전국에 농업을 하는 17770가구 데이터
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/93e4152d-d1be-4e78-8222-f635fd6b7c53)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/611c0aad-430e-459c-8e59-d89d8a279651)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/d215180d-ffee-4614-a825-6f02816d7f6d)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/e691fedb-b3b2-4977-bb72-d3cd5420a584)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/3d199ed4-75ac-4424-a142-9b80a91d0e28)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/53b5bd1c-77e6-4f3a-8de9-209be01c6bba)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/d131ae57-17ff-407a-9067-56ef1952ccd6)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/43970dd6-86dd-4f4c-b7bf-39f67ba19544)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/995e6dd6-6572-4174-8ee4-41098da9a074)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/4d0ed608-d8e9-4a2a-b201-b5eb839b7b4e)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/f2ffe453-16a3-41e5-b213-915cb18eba8c)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/b4c055ec-f604-4531-87db-162e8035f9a4)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/8f0c3f47-e984-42b8-aa98-0b6a99a2f2b7)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/bbd5a1f0-b1eb-495d-b0c4-3143099852e9)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/2d8a2ec4-8044-4342-8c8d-231f8f672d27)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/3963c0c2-a827-431e-9014-ce92bddeb945)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/a073c667-23bb-4a98-8bd6-a16c797a7481)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/89aa1496-460e-4cfd-942e-e886e57ad721)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/84a8aa5f-b018-459b-a2df-c14756fd2b02)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/3badc5d9-921d-4c23-80bf-e991fee57f07)
+![image](https://github.com/kimtaekeong/Analysis-of-Farmer-Damage-Data/assets/113247215/41debd9b-1f95-49ec-a278-ee495fa60aa2)
 
-!https://velog.velcdn.com/images/cerezo3/post/5cdc48e1-07d4-4717-85c4-47a6dcde1a7c/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/13ea3b29-0058-47a2-bd1a-be6387d94d83/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/181fca17-0ec5-4dec-9a9a-bbf5e9a5e16b/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/b189e76b-1de9-4540-a46d-990bbbc6416a/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/332bc9e5-f81f-49b2-9df2-bc1d49d69e3a/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/d86ac63d-126b-42fd-8d3f-3ba5614c1e83/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/a267aee8-666a-4553-bcf8-a0944a7ee982/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/812b0740-6c8e-433c-9c4b-5c8fa9d3c756/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/93e834c2-b715-474c-bac3-7bb2710d9e3c/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/d5d37759-1d5c-48a9-a386-81e46572ccd7/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/5fd89239-4783-44fe-9cf6-d1050dd8048f/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/280a0842-d854-4f70-8011-70308450c3f4/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/c7ee0d37-9960-4be1-9d31-d523582de082/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/bed81225-2207-43ad-828d-8bfac800f946/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/0d0e0af0-0e05-4f2a-8f72-043a8f6560eb/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/953b3b6a-4410-4c93-b5e3-717325c9f25e/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/218b1f10-44f7-4597-b89b-508bf7db92ce/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/98e736b7-33ae-4f2f-856c-57e008a2a8ea/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/30ad04ea-4981-4eba-856d-22ab5a1b440c/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/aeef27b6-38e7-45f3-a811-56dd9fa973df/image.png
-
-!https://velog.velcdn.com/images/cerezo3/post/221b100d-6ca0-4e90-95aa-cc28bf7caf70/image.png
+              
+          
+          
+        
+              
+           
+              
+          
+         
+          
+            
+                
+          
+            
+           
+         
+                                                                       
+           
+ 
+                 
+                
+ 
 
 > 분석 후기
 
